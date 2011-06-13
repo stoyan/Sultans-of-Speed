@@ -117,7 +117,7 @@ var sultans = [
   name: "Kornel Lesiński",
   url: "http://kornel.lesinski.name",
   photo: "http://calendar.perfplanet.com/photos/kornel.jpg",
-  bio: "<a href=\"http://kornel.lesinski.name\">Kornel Lesiński</a> (<a href=\"http://twitter.com/pornelski\" rel=\"nofollow\">@pornelski</a>). Web developer since \"best viewed in AWeb in 640x256\". Creator of ImageOptim. London Standardista."
+  bio: "<a href=\"http://kornel.lesinski.name\">Kornel Lesiński</a> (<a href=\"http://twitter.com/pornelski\" rel=\"nofollow\">@pornelski</a>). Web developer since \"best viewed in AWeb in 640x256\". Creator of ImageOptim. Works as a tech architect for a London startup."
 },
 {
   name: "Kyle Scholz",
