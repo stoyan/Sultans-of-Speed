@@ -1,0 +1,152 @@
+<!doctype html>
+<html><head>
+  <title>Sultans of Speed</title>
+  <meta charset="UTF-8">
+  <style>
+/* {
+  outline: 1px dashed red;
+}*/
+body {
+  font: 16px/1.4 helvetica,arial,clean,sans-serif
+}
+#photo {
+  float: left;
+  width: 450px;
+  text-align: center;
+}
+#text {
+  float: left;
+  width: 300px;
+}
+#slideshow {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+h1,h2,a {color: #1A4D76;}
+a:hover {color: #d57e21;}
+h1 {
+  font-size: 350%;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+  font-size: 250%;
+}
+h1 img {
+  float: left;
+  padding-right: 25px;
+  padding-left: 50px;
+}
+.imagemenot {
+  background-image: -moz-linear-gradient(top, #fcfcfc, #eee);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #fcfcfc),color-stop(1, #eee));
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fcfcfc', EndColorStr='#eeeeee');
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fcfcfc', EndColorStr='#eeeeee')";
+}
+#slide {
+  overflow: hidden;
+  background: none repeat scroll 0 0 #F8F8F8;
+  border-bottom: 1px solid #DDDDDD;
+  border-top: 3px solid #EEEEEE;
+  color: #444444;
+  padding: 10px;
+}
+#controls {
+  text-align:right;
+  margin-top: 0;
+}
+button {
+  font-size: 200%;
+  border-radius: 10px;
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+button:hover {
+  color: #1A4D76;
+}
+.youmustgonow {
+  opacity: 0;
+  -moz-transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+}
+  </style>
+</head><body>
+  <div id="slideshow">
+    <h1><img src="http://calendar.perfplanet.com/wp-content/themes/wpc/wpclogo.png">Sultans of Speed</h1>
+    <p id="controls">
+      Music: <button onclick="play()">&#9654;</button>
+             <button onclick="shutup()">&#9632;</button>
+      Slides: <button onclick="playSlide()">&#9654;</button>
+              <button onclick="stop()">&#9632;</button>
+    </p>
+
+    <div id="slide">
+      <div id="photo"></div>
+      <div id="text"></div>
+    </div>
+  </div>
+  
+  <audio autoplay id="speed">
+    <source src="sultansofspeed.ogg" type="video/ogg">
+    <source src="sultansofspeed.mp3">
+  </audio>
+  <script src="sultans.js"></script>
+  <script>
+var $ = function(id) {
+  return document.getElementById(id);
+};
+var textel = $('text'),
+    photoel = $('photo'),
+    current = 0,
+    inter,
+    inshow;
+
+sultans.sort(function() {
+  return 0.5 - Math.random();
+});
+
+function nextSlide() {
+  var sultan = sultans[current++];
+  var text = "<h2>" + sultan.name + "</h2>";
+  text += '<h3><a href="' + sultan.url + '">' + sultan.url + "</a></h3>";
+  text += '<p>' + sultan.bio + '</p>';
+
+  textel.innerHTML = text;
+  photoel.innerHTML = '<img src="' + sultan.photo + '">';
+  $('slide').className = '';
+  setTimeout(function() {
+    if (inshow) {
+      $('slide').className = 'youmustgonow';
+    }
+  }, 3000);
+  
+  if (current >= sultans.length) {
+    current = 0;
+  }
+}
+
+function play() {$('speed').play();}
+function shutup() {$('speed').pause();}
+function playSlide() {
+  nextSlide();
+  if (!inshow) {
+    inter = setInterval(nextSlide, 4000);
+    inshow = true;
+  }
+}
+function stop() {
+  clearInterval(inter);
+  inshow = false;
+  $('slide').className = '';
+}
+playSlide();
+
+  </script>
+</body>
+</html>
+    
+    
