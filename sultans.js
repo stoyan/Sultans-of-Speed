@@ -57,7 +57,7 @@ var sultans = [
   name: "Marcel Duran",
   url: "http://javascriptrules.com",
   photo: "http://calendar.perfplanet.com/photos/marcel.jpg",
-  bio: "<a href=\"http://javascriptrules.com\">Marcel Duran</a> is a front end engineer at <a href=\"http://developer.yahoo.com/performance/\">Yahoo! Exceptional Performance Team</a> where he maintains <a href=\"http://developer.yahoo.com/yslow/\">YSlow</a> among other performance tools."
+  bio: "<a href=\"http://javascriptrules.com\">Marcel Duran</a> is the Front End Lead for Yahoo!’s <a href=\"http://developer.yahoo.com/performance/\">Exceptional Performance</a> Team. He has been into web performance optimization on high traffic sites in Yahoo! Front Page and Search teams where he applied and researched web performance best practices making pages even faster. He is now dedicated to <a href=\"http://getyslow.com/\">YSlow</a> and other performance tools development, researches and evangelism. His goal is to make the web even faster and believes there is no such thing as \"a few milliseconds won’t cause any harm\"."
 },
 {
   name: "Aaron Peters",
