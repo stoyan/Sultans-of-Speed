@@ -51,7 +51,7 @@ var sultans = [
   name: "Tim Kadlec",
   url: "http://www.timkadlec.com",
   photo: "http://calendar.perfplanet.com/photos/tim.jpg",
-  bio: "Tim Kadlec is web developer living and working in northern Wisconsin with his wife and two daughters. He writes (somewhat irregularly) about a variety of topics, including performance, at <a href=\"http://www.timkadlec.com\">timkadlec.com</a>. You can also find him sharing his thoughts in a briefer format <a href=\"http://twitter.com/tkadlec\">on twitter</a>."
+  bio: "Tim Kadlec is web developer living and working in northern Wisconsin with a propensity for efficient, standards-based, front-end development. His diverse background working with small companies to large publishers and industrial corporations has allowed him to see how these standards can be effectively utilized for businesses of all sizes. Tim is currently writing a book entitled <a href=\"http://responsiveenhancement.com/\"><u>Responsive Enhancement: Designing Flexible User Experiences for the Web</u></a>, to be published in the fall of 2012. He sporadically writes about a variety of topics at <a href=\"http://www.timkadlec.com\">timkadlec.com</a> and you can find him sharing his thoughts in a briefer format on Twitter at <a href=\"http://twitter.com/tkadlec\">@tkadlec</a>."
 },
 {
   name: "Marcel Duran",
