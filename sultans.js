@@ -357,6 +357,12 @@ var sultans = [
   bio:"<a href=\"http://www.nczonline.net/\">Nicholas C. Zakas</a> (<a href=\"http://twitter.com\">@slicknet</a>) is a front-end consultant, author, and speaker. He worked at Yahoo! for almost five years, where he was front-end tech lead for the Yahoo! homepage and a contributor to the <a href=\"http://yuilibrary.com\">YUI library</a>. He is the author of Professional JavaScript for Web Developers (Wrox, 2012), Professional Ajax (Wrox, 2007), and High Performance JavaScript (O'Reilly, 2010). Nicholas is a strong advocate for development best practices including progressive enhancement, accessibility, performance, scalability, and maintainability. He blogs regularly at <a href=\"http://www.nczonline.net/\">http://www.nczonline.net/</a> and can be found on Twitter via <a href=\"http://twitter.com\">@slicknet</a>."
 },
 {
+  photo:"http://calendar.perfplanet.com/photos/thc.jpg",
+  url:"http://tomhughescroucher.com/",
+  name:"Tom Hughes-Croucher",
+  bio:"<a href=\"http://tomhughescroucher.com/\">Tom</a> (<a href=\"http://twitter.com/sh1mmer\">@sh1mmer</a>) is the principal consultant at Jetpacks for Dinosaurs, who help make web sites really rather fast. He is currently working with Walmart Labs on their Mobile products. Tom co-authored <a href=\"http://shop.oreilly.com/product/0636920015956.do\">Up and Running with Node.js</a> and lives in San Francisco, CA."
+},
+{
   name: "Dave Artz",
   url: "http://www.artzstudio.com",
   photo: "http://assets.en.oreilly.com/1/eventprovider/1/_@user_44706.jpg",
@@ -381,3 +387,5 @@ sultan.name = $$('.posthead a')[1].innerText;
 sultan.bio = $$('.bioblurb')[0].innerHTML;
 console.log(JSON.stringify(sultan).replace(/","/g, '",\n"'));
 */
+
+
