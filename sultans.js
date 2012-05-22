@@ -24,10 +24,10 @@ var sultans = [
   bio: "<a href=\"http://ericgoldsmith.com\">Eric Goldsmith</a> (<a href=\"http://twitter.com/GoldsmithEric\">@GoldsmithEric</a>), Operations Architect at AOL, has more than 20 years of experience providing technical leadership in the areas of product development, engineering and operations. At AOL he has led efforts to deliver the highest levels of performance and availability for top Web sites, including: AOL.com; AIM.com; and AOL Video; among others. His areas of expertise include Performance Analysis, Capacity Planning, Network Engineering, and Software Development. Prior to AOL, Eric worked for companies such as UUNet, WorldCom and CompuServe, as well as telecom and Internet startups. He holds a BS in Computer Science from The Ohio State University."
 },
 {
-  name: "Patrick Meenan",
-  url: "http://blog.patrickmeenan.com/",
-  photo: "http://calendar.perfplanet.com/photos/pat.jpg",
-  bio: "<a href=\"http://blog.patrickmeenan.com/\">Patrick Meenan</a> (<a href=\"http://twitter.com/patmeenan\">@patmeenan</a>) created <a href=\"http://www.webpagetest.org/\">WebPagetest</a> while working at AOL and now works at Google with the team that is working to <a href=\"http://code.google.com/speed/\">make the web faster</a>"
+  photo:"http://calendar.perfplanet.com/photos/pat.jpg",
+  url:"http://blog.patrickmeenan.com/",
+  name:"Patrick Meenan",
+  bio:"<a href=\"http://blog.patrickmeenan.com/\">Patrick Meenan</a> (<a href=\"http://twitter.com/patmeenan\">@patmeenan</a>) created <a href=\"http://www.webpagetest.org/\">WebPagetest</a> while working at AOL and now works at Google with the team that is working to <a href=\"http://code.google.com/speed/\">make the web faster</a>."
 },
 {
   name: "Carlos Bueno",
@@ -171,7 +171,7 @@ var sultans = [
   name: "John-David Dalton",
   url: "http://allyoucanleet.com",
   photo: "http://calendar.perfplanet.com/photos/jdd.jpg",
-  bio: "<a href=\"http://allyoucanleet.com/\">John-David Dalton</a> (<a href=\"http://twitter.com/jdalton\">@jdalton</a>): my first JavaScript project was a Super Mario Bros. game engine  I made in high school. I have always been drawn to JavaScript and  other ECMAScript based languages. I spend most of my time tinkering  with JavaScript frameworks, fixing bugs and running benchmarks. I love  interacting with the JavaScript community and try to help as much as  possible. I have a bachelors degree in Multimedia Instructional Design, an awesome wife, and a puppy.</p>"
+  bio: "<a href=\"http://allyoucanleet.com/\">John-David Dalton</a> (<a href=\"http://twitter.com/jdalton\">@jdalton</a>): my first JavaScript project was a Super Mario Bros. game engine  I made in high school. I have always been drawn to JavaScript and  other ECMAScript based languages. I spend most of my time tinkering  with JavaScript frameworks, fixing bugs and running benchmarks. I love  interacting with the JavaScript community and try to help as much as  possible. I have a bachelors degree in Multimedia Instructional Design, an awesome wife, and a puppy."
 },
 {
   name: "Steve Souders",
@@ -184,5 +184,200 @@ var sultans = [
   url: "http://t32k.me/mol/",
   photo: "http://dl.dropbox.com/u/356242/t32k.jpg",
   bio: "<a href=\"http://t32k.me/mol/about/\">Koji Ishimoto</a> (<a href=\"http://twitter.com/t32k\">@t32k</a>) is a web designer in Japan. He speaks about web performance (<a href=\"http://www.slideshare.net/t32k/high-performance-web-design\">High Performance Web Design</a>, <a href=\"http://www.slideshare.net/t32k/coding-web-performance\">Coding Web Performance</a>, and <a href=\"http://www.slideshare.net/t32k/long-life-web-performance-optimization\">Long Life Web Performance Optimization</a>.) at conferences."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/jamespearce.jpg",
+  url:"http://tripleodeon.com/",
+  name:"James Pearce",
+  bio:"<a href=\"http://tripleodeon.com\">James</a> (<a href=\"http://twitter.com/jamespearce\">@jamespearce</a>) is Head of Mobile Developer Relations at Facebook. He lives in California and airports around the world."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/nicole.jpg",
+  url:"http://www.stubbornella.org/",
+  name:"Nicole Sullivan",
+  bio:"<a href=\"http://stubbornella.org/\">Nicole Sullivan</a> (<a href=\"http://twitter.com/stubbornella/\">@stubbornella</a>) is an evangelist, front-end performance consultant, CSS Ninja, and author. She started the <a href=\"http://www.stubbornella.org/content/2009/02/28/object-oriented-css-grids-on-github/\">Object-Oriented CSS</a> open source project, which answers the question: how do you scale CSS for millions of visitors or thousands of pages? She also consulted with the W3C for their beta redesign, and is the co-creator of <a href=\"http://developer.yahoo.com/yslow/smushit/\">Smush.it</a>, an image optimization service in the cloud.<br><br>Nicole is passionate about CSS, web standards, and scalable front-end architecture for large commercial websites. She speaks about performance at conferences around the world, most recently at The Ajax Experience, ParisWeb, and Web Directions North.<br><br>She co-authored <cite><a href=\"http://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304\">Even Faster Websites</a></cite> and blogs at <a href=\"http://stubbornella.org/\">stubbornella.org</a>."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/calhoun.jpg",
+  url:"http://davidbcalhoun.com/",
+  name:"David Calhoun",
+  bio:"David Calhoun (<a href=\"https://twitter.com/#!/franksvalli\">@franksvalli</a>) is an independent frontend developer who has been splitting his time between California and Japan.  He's the community news writer for JSMag and keeps up a developer blog at <a href=\"http://davidbcalhoun.com/\">davidbcalhoun.com</a>.  He formerly worked for Yahoo! Mobile."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/pavel.jpg",
+  url:"https://twitter.com/pavelpaulau",
+  name:"Pavel Paulau",
+  bio:"<a href=\"https://twitter.com/pavelpaulau\">Pavel Paulau</a> is analyst from Minsk, Belarus. Besides his daily work at <a href=\"http://www.epam.com/\">EPAM Systems</a> he tries to spread importance of performance as co-author of <a href=\"http://webperformance.ru/\">WebPerformance.ru</a> blog."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/jp.jpg",
+  url:"https://twitter.com/jphpsf",
+  name:"JP Castro",
+  bio:"JP Castro (<a href=\"https://twitter.com/jphpsf\">@jphpsf</a>) is a front end engineer living in San Francisco. He co-organizes the <a href=\"http://www.meetup.com/SF-Web-Performance-Group/\">San Francisco performance meetup</a>. When he's not talking about performance, he enjoys spending time with his family, the outdoors and craft beers."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/sergey.jpg",
+  url:"http://www.sergeychernyshev.com/",
+  name:"Sergey Chernyshev",
+  bio:"<a href=\"http://www.sergeychernyshev.com/\">Sergey Chernyshev</a> (<a href=\"http://twitter.com/sergeyche\">@sergeyche</a>) organizes <a href=\"http://www.meetup.com/Web-Performance-NY/\">New York Web Performance Meetup</a> and helps other performance enthusiasts around the world start meetups in their cities. Sergey volunteers his time to run <a href=\"http://twitter.com/perfplanet\">@perfplanet</a> twitter companion to PerfPlanet site. He is also an open source developer and author of a few web performance-related tools including <a href=\"http://www.showslow.com/\">ShowSlow</a>, <a href=\"https://github.com/sergeychernyshev/SVN-Assets\">SVN Assets</a>, <a href=\"https://github.com/sergeychernyshev/.htaccess\">drop-in .htaccess</a> and more."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/joshua.jpg",
+  url:"http://www.webperformancetoday.com/",
+  name:"Joshua Bixby",
+  bio:"Joshua Bixby (<a href=\"http://twitter.com/JoshuaBixby\">@JoshuaBixby</a>) is president of <a href=\"http://www.strangeloopnetworks.com/\">Strangeloop</a>, which provides website acceleration solutions to companies like eBay/PayPal, Visa, Petco, Wine.com, and O’Reilly Media. Joshua also maintains the blog <a href=\"http://www.webperformancetoday.com/\">Web Performance Today</a>, which explores issues and ideas about site speed, user behavior, and performance optimization."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/billy-hoffman.jpg",
+  url:"http://zoompf.com/",
+  name:"Billy Hoffman",
+  bio:"If there is one thing Billy Hoffman believes in, it's transparency. In fact, he once <a href=\"http://www.chillingeffects.org/weather.cgi?WeatherID=383\">got sued over it</a>, but that is another story. Billy continues to push for transparency as founder and CEO of Zoompf, whose products provide visibility into your website's performance by identifying the specific issues which are slowing your site down. You can follow <a href=\"http://twitter.com/zoompf\">Zoompf on Twitter</a> and read Billy's performance research on Zoompf's blog <a href=\"http://zoompf.com/blog\">Lickity Split</a>."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/tobie.jpg",
+  url:"http://tobielangel.com/",
+  name:"Tobie Langel",
+  bio:"<a href=\"http://tobielangel.com/\">Tobie Langel</a> (<a href=\"https://twitter.com/tobie\">@tobie</a>) is a Software engineer at Facebook. He’s also Facebook’s W3C AC Rep. An avid <a href=\"https://github.com/tobie\">open-source contributor</a>, he’s mostly known for having co-maintained the <a href=\"http://prototypejs.org/\">Prototype JavaScript Framework</a>. Tobie recently picked up blogging again and rants at <a href=\"http://blog.tobie.me/\">blog.tobie.me</a>. In a previous life, he was a professional jazz drummer."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/matthew_steele.jpg",
+  url:"http://code.google.com/p/mod-spdy/",
+  name:"Matthew Steele",
+  bio:"Matthew Steele is a software engineer at Google, working on making the web faster. Matthew has worked on Page Speed for Firefox and Chrome, has contributed to mod_pagespeed, and most recently, has led design and development of mod_spdy for Apache."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/bryan180.jpg",
+  url:"http://code.google.com/p/mod-spdy/",
+  name:"Bryan McQuade",
+  bio:"Bryan McQuade (<a href=\"http://twitter.com/bryanmcquade\">@bryanmcquade</a>) leads the Page Speed team at Google. He has contributed to various projects that make the web faster, including Shared Dictionary Compression over HTTP and optimizing web servers to better utilize HTTP."
+},
+
+{
+  photo:"http://calendar.perfplanet.com/photos/tony.jpg",
+  url:"http://twitter.com/tonygentilcore",
+  name:"Tony Gentilcore",
+  bio:"Tony Gentilcore (<a href=\"http://twitter.com/tonygentilcore\">@tonygentilcore</a>) is a software engineer at Google. He enjoys making the web faster and has recently added support for <a href=\"http://blog.chromium.org/2010/07/do-you-know-how-slow-your-web-page-is.html\">Web Timing</a> and <a href=\"http://webkit.org/blog/1395/running-scripts-in-webkit/\">async scripts</a> to Google Chrome/WebKit."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/aaron.jpg",
+  url:"http://www.aaronpeters.nl/en/",
+  name:"Aaron Peters",
+  bio:"<a href=\"http://www.aaronpeters.nl/en/\">Aaron Peters</a> (<a href=\"http://twitter.com/aaronpeters\">@aaronpeters</a>) is the co-founder of <a href=\"http://www.cdnplanet.com/\">CDN Planet</a> and an independent web performance consultant based in The Netherlands. He is a Red Hot Chili Peppers fan, father of 3 girls and will kick your butt in a snowboard contest anytime."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/estelle.jpg",
+  url:"http://www.standardista.com/",
+  name:"Estelle Weyl",
+  bio:"<a href=\"http://www.standardista.com\">Estelle Weyl</a> (<a href=\"http://twitter.com/estellevw\">estellevw</a>) started her professional life in architecture, then managed teen health programs. In 2000, she took the natural step of becoming a web standardista. She has consulted for Kodakgallery, Yahoo! and Apple, among others. Estelle provides tutorials and detailed grids of CSS3 and HTML5 browser support in her blog at <a href=\"http://www.standardista.com\">http://www.standardista.com</a>. She is the author of <a href=\"http://oreilly.com/catalog/9780980846904\">Mobile HTML5</a> (O’Reilly, Oct. 2011) and <a href=\"www.sitepoint.com/books/htmlcss1/\">HTML5 and CSS3 for the Real World</a> (Sitepoint, May 2011). While not coding, she works in construction, de-hippifying her 1960’s throwback abode."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/alex.jpg",
+  url:"http://alexanderpodelko.com/blog/",
+  name:"Alexander Podelko",
+  bio:"The last fourteen years <a href=\" http://alexanderpodelko.com/blog/\">Alex Podelko</a> (<a href=\"http://twitter.com/apodelko\">@apodelko</a>) worked as a performance engineer and architect for several companies. Currently he is Consulting Member of Technical Staff at Oracle, responsible for performance testing and optimization of Hyperion products. Alex currently serves as a director for <a href=\"http://cmg.org\">the Computer Measurement Group (CMG)</a>. He maintains <a href=\"http://www.alexanderpodelko.com\">a collection of performance-related links and documents</a>."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/buddy.jpg",
+  url:"http://www.lognormal.com/",
+  name:"Buddy Brewer",
+  bio:"Buddy Brewer (<a href=\"http://twitter.com/bbrewer\">@bbrewer</a>) is a co-founder of <a href=\"http://www.lognormal.com\">Log Normal</a>, a company that shows you exactly how much time real people spend waiting on your web site. He has worked on web performance issues in various roles for almost ten years."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/matthew.jpg",
+  url:"http://www.cloudflare.com/",
+  name:"Matthew Prince",
+  bio:"<a href=\"http://www.cloudflare.com/\">Matthew Prince</a> (<a href=\"https://twitter.com/eastdakota\">@eastdakota</a>) is the co-founder &amp; CEO of CloudFlare. Matthew wrote his first computer program when he was 7, and hasn't been able to shake the bug since. After attending the University of Chicago Law School, he worked as an attorney for one day before jumping at the opportunity to be a founding member of a tech startup. He hasn't looked back. CloudFlare is Matthew's third entrepreneurial venture. On the side, Matthew teaches Internet law as an adjunct professor, is a certified ski instructor and regular attendee of the Sundance Film Festival."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/stoyan.jpg",
+  url:"http://phpied.com/",
+  name:"Stoyan Stefanov",
+  bio:"<a href=\"http://phpied.com\">Stoyan</a> (<a href=\"http://twitter.com/stoyanstefanov\">@stoyanstefanov</a>) is a Facebook engineer, former Yahoo!, writer (\"JavaScript Patterns\", \"Object-Oriented JavaScript\"), speaker (JSConf, Velocity, Fronteers), toolmaker (Smush.it, YSlow 2.0) and a guitar hero <a href=\"http://givepngachance.com\">wannabe</a>."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/alois.jpg",
+  url:"http://blog.dynatrace.com/",
+  name:"Alois Reitbauer",
+  bio:"<a href=\"http://blog.dynatrace.com/\">Alois Reitbauer</a> (<a href=\"http://twitter.com/aloisreitbauer\">@aloisreitbauer</a>) works as Technology Strategist for dynaTrace software and heads the dynaTrace Center of Excellence. As a major contributor to dynaTrace Labs technology he influences the companies future technological direction. Besides his engineering work he supports Fortune 500 companies in implementing successful performance management."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/ericdaspet.jpg",
+  url:"http://eric.daspet.name/",
+  name:"Éric Daspet",
+  bio:"<a href=\"http://eric.daspet.name/\">Éric Daspet</a> (<a href=\"http://twitter.com/edasfr/\">@edasfr</a>) is a web consultant in France. He <a href=\"http://www.amazon.fr/PHP-5-avanc%C3%A9-Eric-Daspet/dp/2212123698/\">wrote about PHP</a>, founded <a href=\"http://www.paris-web.fr/\">Paris-Web conferences</a> to promote web quality, and is now pushing performance with a local user group and a future book."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/israel.jpg",
+  url:"http://sultansofspeed.com",
+  name:"Israel Nir",
+  bio:"Israel Nir (<a href=\"http://twitter.com/shunra\">@shunra</a>) likes to create stuff, break other stuff apart, code, the number 0x17 and playing the ukulele. He also works as a team leader at Shunra, where he builds tools to make applications run faster."
+},
+
+{
+  photo:"http://calendar.perfplanet.com/photos/betty.jpg",
+  url:"http://getyslow.com/",
+  name:"Betty Tso",
+  bio:"Betty leads the Exceptional Performance Engineering team at Yahoo and drives the engineering execution &amp; development for Yahoo!'s top Web Performance products like YSlow and Roundtrip.<br><br>Betty is an Evangelist on Web Performance Optimization best practices in multiple Yahoo! offices; speaker at conferences, Summits and top notch universities. Betty is also the Co-president of Yahoo! Women-in-Tech organization."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/steve.jpg",
+  url:"http://stevesouders.com/",
+  name:"Steve Souders",
+  bio:"Steve works at <a href=\"http://www.google.com/\">Google</a> on web performance and open source initiatives. He previously served as Chief Performance Yahoo!. Steve is the author of <a href=\"http://www.amazon.com/gp/product/0596529309?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596529309\"><u>High Performance Web Sites</u></a> and <a href=\"http://www.amazon.com/gp/product/0596522304?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596522304\"><u>Even Faster Web Sites</u></a>. He is the creator of <a href=\"http://developer.yahoo.com/yslow/\">YSlow</a>, one of the <a href=\"https://addons.mozilla.org/en-US/firefox/collections/mozilla/bestof2billion/\">top 25 Firefox add-ons</a>. He's created many other performance tools and services including <a href=\"http://httparchive.org/\">the HTTP Archive</a>, <a href=\"http://cuzillion.com/\">Cuzillion</a>, <a href=\"http://jdrop.org/\">Jdrop</a>, <a href=\"http://stevesouders.com/controljs/\">ControlJS</a>, and <a href=\"http://www.browserscope.org/\">Browserscope</a>. He serves as co-chair of <a href=\"http://velocityconf.com/\">Velocity</a>, the web performance and operations conference from O'Reilly, and is co-founder of the <a href=\"http://getfirebug.com/\">Firebug Working Group</a>. He taught <a href=\"http://cs193h.stanford.edu\">CS193H: High Performance Web Sites</a> at Stanford University. "
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/josh.jpg",
+  url:"http://onlineaspect.com/",
+  name:"Josh Fraser",
+  bio:"<a href=\"http://onlineaspect.com\">Josh Fraser</a> (<a href=\"ttp://twitter.com/joshfraser\">@joshfraser</a>) is the co-founder and CEO of Torbit, a company that automates front-end optimizations that are proven to increase the speed of your website.  Josh graduated from Clemson University with a BS in computer science and previously founded a company called EventVue.  He currently lives in Mountain View and is obsessed with speed."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/brian.jpg",
+  url:"http://www.brianp.net/",
+  name:"Brian Pane",
+  bio:"<a href=\"http://www.brianp.net/\">Brian Pane</a> (<a href=\"http://www.linkedin.com/in/brianpane\">@brianpane</a>) is an Internet technology and product generalist. He has worked at companies including Disney, CNET, F5, and Facebook; and all along the way he's jumped at any opportunity to make software faster."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/tim.jpg",
+  url:"http://www.timkadlec.com/",
+  name:"Tim Kadlec",
+  bio:"Tim Kadlec is web developer living and working in northern Wisconsin with a propensity for efficient, standards-based front-end development. His diverse background working with small companies to large publishers and industrial corporations has allowed him to see how these standards can be effectively utilized for businesses of all sizes. <br><br>His current interests include creating cross-platform sites and applications using the open web stack and improving the state of performance optimization on the web. <br><br>He sporadically writes about a variety of topics at <a href=\"http://www.timkadlec.com\">timkadlec.com</a>. You can also find him sharing his thoughts in a briefer format on <a href=\"http://twitter.com/tkadlec\">@tkadlec</a>."
+},
+
+{
+  photo:"http://calendar.perfplanet.com/photos/guy.jpg",
+  url:"http://blaze.io/",
+  name:"Guy Podjarny",
+  bio:"<a href=\"http://blaze.io\">Guy Podjarny</a> (<a href=\"http://twitter.com/guypod\">guypod</a>) is Web Performance and Security expert, specializing in Mobile Web Performance, CTO at Blaze. Guy spent the last decade prior to Blaze as a Software Architect and Web Application Security expert, driving the IBM Rational AppScan product line from inception to being the leading Web Application Security assessment tool. Guy has filed over 15 patents, presented at numerous conferences, and has published several professional papers."
+},
+{
+  photo:"http://calendar.perfplanet.com/photos/nicholas.jpg",
+  url:"http://www.nczonline.net/",
+  name:"Nicholas Zakas",
+  bio:"<a href=\"http://www.nczonline.net/\">Nicholas C. Zakas</a> (<a href=\"http://twitter.com\">@slicknet</a>) is a front-end consultant, author, and speaker. He worked at Yahoo! for almost five years, where he was front-end tech lead for the Yahoo! homepage and a contributor to the <a href=\"http://yuilibrary.com\">YUI library</a>. He is the author of Professional JavaScript for Web Developers (Wrox, 2012), Professional Ajax (Wrox, 2007), and High Performance JavaScript (O'Reilly, 2010). Nicholas is a strong advocate for development best practices including progressive enhancement, accessibility, performance, scalability, and maintainability. He blogs regularly at <a href=\"http://www.nczonline.net/\">http://www.nczonline.net/</a> and can be found on Twitter via <a href=\"http://twitter.com\">@slicknet</a>."
+},
+{
+  name: "Dave Artz",
+  url: "http://www.artzstudio.com",
+  photo: "http://assets.en.oreilly.com/1/eventprovider/1/_@user_44706.jpg",
+  bio: "David Artz is Director of Optimization at AOL, LLC. His team’s charter at AOL is to ensure that all experiences are optimized for speed, SEO, and browser accessibility. His team develops, maintains, and evangelizes a broad set of optimization tools, standards, and best practices that stretch across roles in design, development, and copywriting. Their innovative solutions have led to real results in page monetization for AOL.com, and their evangelism has paid off in lighter, more streamlined designs. Their ultimate goal is to infuse the optimization mindset and skillset into AOL’s workforce and their outsourcing partners and help drive and track results, maximizing revenue by optimizing pages."
 }
 ];
+
+/*
+{
+  name: "",
+  url: "",
+  photo: "",
+  bio: ""
+},
+*/
+
+/*
+var sultan = {};
+sultan.photo = $$('.bioblurb img')[0].src;
+sultan.url = $$('.posthead a')[1].href;
+sultan.name = $$('.posthead a')[1].innerText;
+sultan.bio = $$('.bioblurb')[0].innerHTML;
+console.log(JSON.stringify(sultan).replace(/","/g, '",\n"'));
+*/
