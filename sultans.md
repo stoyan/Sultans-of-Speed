@@ -197,11 +197,6 @@ http://www.standardista.com/
 http://calendar.perfplanet.com/photos/estelle.jpg
 <a href="http://www.standardista.com">Estelle Weyl</a> (<a href="https://twitter.com/estellevw">estellevw</a>) started her professional life in architecture, then managed teen health programs. In 2000, she took the natural step of becoming a web standardista. She has consulted for Kodakgallery, Yahoo! and Apple, among others. Estelle provides tutorials and detailed grids of CSS3 and HTML5 browser support in her blog at <a href="http://www.standardista.com">http://www.standardista.com</a>. She is the author of <a href="http://oreilly.com/catalog/9780980846904">Mobile HTML5</a> (O’Reilly, Oct. 2011) and <a href="www.sitepoint.com/books/htmlcss1/">HTML5 and CSS3 for the Real World</a> (Sitepoint, May 2011). While not coding, she works in construction, de-hippifying her 1960’s throwback abode.
 
-== Alexander Podelko
-http://alexanderpodelko.com/blog/
-http://calendar.perfplanet.com/photos/alex.jpg
-The last fourteen years <a href=" http://alexanderpodelko.com/blog/">Alex Podelko</a> (<a href="https://twitter.com/apodelko">@apodelko</a>) worked as a performance engineer and architect for several companies. Currently he is Consulting Member of Technical Staff at Oracle, responsible for performance testing and optimization of Hyperion products. Alex currently serves as a director for <a href="http://cmg.org">the Computer Measurement Group (CMG)</a>. He maintains <a href="http://www.alexanderpodelko.com">a collection of performance-related links and documents.
-
 == Buddy Brewer
 http://www.lognormal.com/
 http://calendar.perfplanet.com/photos/buddy.jpg
