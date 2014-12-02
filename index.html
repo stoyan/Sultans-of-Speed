@@ -111,6 +111,13 @@ sultans.sort(function() {
   return 0.5 - Math.random();
 });
 
+// preload
+sultans.forEach(function(s, idx) {
+  setTimeout(function(){
+    new Image().src = s.photo;
+  }, 300 * idx);
+});
+
 function nextSlide() {
   var sultan = sultans[current++];
   var text = "<h2>" + sultan.name + "</h2>";

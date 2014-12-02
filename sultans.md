@@ -412,3 +412,4 @@ http://calendar.perfplanet.com/photos/jake.jpg
 <a href="http://github.com/jakearchibald">Jake Archibald</a> (<a href="https://twitter.com/jaffathecake">@jaffathecake</a>) is a Developer Advocate at Google working with the Chrome team to develop and promote web standards and developer tools. Prior to Google, Jake worked on <a href="http://lanyrd.com/mobile/">http://lanyrd.com/mobile/</a>, using modern web standards and good old hackery to work smoothly on ancient devices, while adding enhancements to newer devices such as offline support.
 Jake also spent 4 years working at the BBC writing low level JavaScript that catered to their strict accessibility and browser support requirements. He authored and maintained the corporation’s Standards and Guidelines on JavaScript, and sat on their working groups for accessibility, markup, and download performance.
 Outside of the web, Jake is a motorsport and comedy fan.
+
