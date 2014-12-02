@@ -42,7 +42,9 @@ http://calendar.perfplanet.com/photos/wim2013.jpg
 == Tim Kadlec
 http://www.timkadlec.com/
 http://calendar.perfplanet.com/photos/tim2.jpg
-Tim is an independent Web developer living in northern Wisconsin with his wife and three daughters. He is very passionate about the Web and can frequently be found speaking about what he’s learned at a variety of Web conferences.<br><br>He wrote <a href="http://implementingresponsivedesign.com">Implementing Responsive Design: Building sites for an anywhere, everywhere web</a> (New Riders, 2012) and was a contributing author for the <a href="http://www.amazon.com/Web-Performance-Daybook-Volume-2/dp/1449332919">Web Performance Daybook Volume 2</a>.<br><br>He sporadically writes about a variety of topics at <a href="http://timkadlec.com">timkadlec.com</a>. You can also find him sharing his thoughts in a briefer format on <a href="https://twitter.com/tkadlec">@tkadlec</a>.</p>
+Tim is an independent Web developer living in northern Wisconsin with his wife and three daughters. He is very passionate about the Web and can frequently be found speaking about what he’s learned at a variety of Web conferences.
+He wrote <a href="http://implementingresponsivedesign.com">Implementing Responsive Design: Building sites for an anywhere, everywhere web</a> (New Riders, 2012) and was a contributing author for the <a href="http://www.amazon.com/Web-Performance-Daybook-Volume-2/dp/1449332919">Web Performance Daybook Volume 2</a>.
+He sporadically writes about a variety of topics at <a href="http://timkadlec.com">timkadlec.com</a>. You can also find him sharing his thoughts in a briefer format on <a href="https://twitter.com/tkadlec">@tkadlec</a>.
 
 == Marcel Duran
 https://twitter.com/marcelduran
@@ -68,7 +70,8 @@ http://calendar.perfplanet.com/photos/sergey.jpg
 == Hedger Wang
 http://hedgerwow.blogspot.com/
 http://calendar.perfplanet.com/photos/hedger.jpg
-<a href="http://hedgerwow.blogspot.com/">Hedger Wang</a> is a HTML/CSS/JS Fanboy. <br><br>He used to work at Yahoo! as Frontend Tech Lead then at Google on several big projects as UI Developer. Hedger is now a Facebook engineer.
+<a href="http://hedgerwow.blogspot.com/">Hedger Wang</a> is a HTML/CSS/JS Fanboy. 
+He used to work at Yahoo! as Frontend Tech Lead then at Google on several big projects as UI Developer. Hedger is now a Facebook engineer.
 
 == Sergey Chikuyonok
 http://chikuyonok.ru/
@@ -83,7 +86,7 @@ David Calhoun (<a href="https://twitter.com/franksvalli">@franksvalli</a>) is an
 == Nicholas Zakas
 http://www.nczonline.net/
 http://calendar.perfplanet.com/photos/nicholas.jpg
-<a href="http://www.nczonline.net/">Nicholas C. Zakas</a> (<a href="https://twitter.com">@slicknet</a>) is a software engineer at Box, author, and speaker. He worked at Yahoo! for almost five years, where he was front-end tech lead for the Yahoo! homepage and a contributor to the <a href="http://yuilibrary.com">YUI library</a>. He is the author of Professional JavaScript for Web Developers (Wrox, 2012), Professional Ajax (Wrox, 2007), and High Performance JavaScript (O'Reilly, 2010). Nicholas is a strong advocate for development best<br><br>practices including progressive enhancement, accessibility, performance, scalability, and maintainability. He blogs regularly at <a href="http://www.nczonline.net/">http://www.nczonline.net/</a> and can be found on Twitter via <a href="https://twitter.com">@slicknet</a>.
+<a href="http://www.nczonline.net/">Nicholas C. Zakas</a> (<a href="https://twitter.com">@slicknet</a>) is a software engineer at Box, author, and speaker. He worked at Yahoo! for almost five years, where he was front-end tech lead for the Yahoo! homepage and a contributor to the <a href="http://yuilibrary.com">YUI library</a>. He is the author of Professional JavaScript for Web Developers (Wrox, 2012), Professional Ajax (Wrox, 2007), and High Performance JavaScript (O'Reilly, 2010). Nicholas is a strong advocate for development best practices including progressive enhancement, accessibility, performance, scalability, and maintainability. He blogs regularly at <a href="http://www.nczonline.net/">http://www.nczonline.net/</a> and can be found on Twitter via <a href="https://twitter.com">@slicknet</a>.
 
 == Tony Gentilcore
 https://twitter.com/tonygentilcore
@@ -103,7 +106,7 @@ http://calendar.perfplanet.com/photos/kornel2.jpg
 == Kyle Scholz
 http://www.kylescholz.com
 http://calendar.perfplanet.com/photos/kyles.jpg
-<a href="http://www.kylescholz.com">Kyle Scholz</a>is a Staff Software Engineer, Web Search Infrastructure, Google<br></br>Kyle leads a team focused on front end infrastructure for Web Search at Google. Most recently, he helped launch Google Instant. He is a coauthor of Google Page Speed and contributor to open source projects including <a href="http://code.google.com/p/jsviz">JSViz</a>. He blogs occasionally at <a href="http://www.kylescholz.com">kylescholz.com</a>
+<a href="http://www.kylescholz.com">Kyle Scholz</a>is a Staff Software Engineer, Web Search Infrastructure, Google. Kyle leads a team focused on front end infrastructure for Web Search at Google. Most recently, he helped launch Google Instant. He is a coauthor of Google Page Speed and contributor to open source projects including <a href="http://code.google.com/p/jsviz">JSViz</a>. He blogs occasionally at <a href="http://www.kylescholz.com">kylescholz.com</a>
 
 == Alois Reitbauer
 http://blog.dynatrace.com/
@@ -148,7 +151,8 @@ http://calendar.perfplanet.com/photos/jdd.jpg
 == Steve Souders
 http://stevesouders.com/
 http://calendar.perfplanet.com/photos/steve.jpg
-Steve is the Head Performance Engineer at Google where he works on web performance and open source initiatives. <br><br>He's the author of <a href="http://www.amazon.com/gp/product/0596529309?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596529309"><u>High Performance Web Sites</u></a> and<br><br><a href="http://www.amazon.com/gp/product/0596522304?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596522304"><u>Even Faster Web Sites</u></a>.<br><br>He's created many performance tools and services including <a href="http://developer.yahoo.com/yslow">YSlow</a>,<br><br><a href="http://httparchive.org/">the HTTP Archive</a>,<br><br><a href="http://cuzillion.com/">Cuzillion</a>,<br><br><a href="http://jdrop.org/">Jdrop</a>,<br><br><a href="http://spriteme.org">SpriteMe</a>,<br><br><a href="http://stevesouders.com/controljs/">ControlJS</a>,<br><br>and<br><br><a href="http://www.browserscope.org/">Browserscope</a>.<br><br>He serves as co-chair of <a href="http://velocityconf.com/">Velocity</a>, the web performance and operations conference from O'Reilly,<br><br>and is co-founder of the <a href="http://getfirebug.com/workingGroup/">Firebug Working Group</a>.<br><br>He taught <a href="http://cs193h.stanford.edu/">CS193H: High Performance Web Sites</a> at Stanford, <br><br>and does many <a href="http://stevesouders.com/talks.php">public speaking appearances</a>.<br><br></p>
+Steve is the Head Performance Engineer at Google where he works on web performance and open source initiatives. He's the author of <a href="http://www.amazon.com/gp/product/0596529309?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596529309"><u>High Performance Web Sites</u></a> and <a href="http://www.amazon.com/gp/product/0596522304?ie=UTF8&amp;tag=stevsoud-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596522304"><u>Even Faster Web Sites</u></a>. He's created many performance tools and services including <a href="http://developer.yahoo.com/yslow">YSlow</a>, <a href="http://httparchive.org/">the HTTP Archive</a>, <a href="http://cuzillion.com/">Cuzillion</a>, <a href="http://jdrop.org/">Jdrop</a>, <a href="http://spriteme.org">SpriteMe</a>, <a href="http://stevesouders.com/controljs/">ControlJS</a>, and <a href="http://www.browserscope.org/">Browserscope</a>.
+He serves as co-chair of <a href="http://velocityconf.com/">Velocity</a>, the web performance and operations conference from O'Reilly, and is co-founder of the <a href="http://getfirebug.com/workingGroup/">Firebug Working Group</a>. He taught <a href="http://cs193h.stanford.edu/">CS193H: High Performance Web Sites</a> at Stanford,  and does many <a href="http://stevesouders.com/talks.php">public speaking appearances</a>.
 
 == Koji Ishimoto
 http://t32k.me/mol/
@@ -180,7 +184,8 @@ JP Castro (<a href="https://twitter.com/jphpsf">@jphpsf</a>) is a front end engi
 == Billy Hoffman
 http://zoompf.com/
 http://calendar.perfplanet.com/photos/billy2013.jpg
-<a href="http://zoompf.com">Billy Hoffman</a> (<a href="https://twitter.com/zoompf">@zoompf</a>) is the founder and CTO of Zoompf Inc, a provider of web performance products and services. Zoompf's scanning technology helps website owners find and fix performance issues which are slowing down their sites. Previously Billy was a web security researcher at SPI Dynamics and managed a research team at HP. <br><br>He can open a Coke can without using his hands
+<a href="http://zoompf.com">Billy Hoffman</a> (<a href="https://twitter.com/zoompf">@zoompf</a>) is the founder and CTO of Zoompf Inc, a provider of web performance products and services. Zoompf's scanning technology helps website owners find and fix performance issues which are slowing down their sites. Previously Billy was a web security researcher at SPI Dynamics and managed a research team at HP. 
+He can open a Coke can without using his hands
 
 == Tobie Langel
 http://tobielangel.com/
@@ -231,7 +236,8 @@ http://calendar.perfplanet.com/photos/brian.jpg
 == Guy Podjarny
 http://www.guypo.com/
 http://calendar.perfplanet.com/photos/guy.jpg
-<a href="https://twitter.com/guypod">Guy Podjarny</a> is a Web Performance expert, focusing primarily on Front-End Optimization and Mobile Web Performance. Guy his a frequent speaker at performance and mobile related conferences, and posts his opinions and research on <a href="http://www.guypo.com/">his blog</a>.<br><br>Guy is the CTO of the Web Experience Business Unit in <a href="http://www.akamai.com">Akamai</a>. Prior to that, Guy was the CTO and co-founder of Blaze.io (later acquired by Akamai), and spent a decade working on Web Application Security.
+<a href="https://twitter.com/guypod">Guy Podjarny</a> is a Web Performance expert, focusing primarily on Front-End Optimization and Mobile Web Performance. Guy his a frequent speaker at performance and mobile related conferences, and posts his opinions and research on <a href="http://www.guypo.com/">his blog</a>.
+Guy is the CTO of the Web Experience Business Unit in <a href="http://www.akamai.com">Akamai</a>. Prior to that, Guy was the CTO and co-founder of Blaze.io (later acquired by Akamai), and spent a decade working on Web Application Security.
 
 == Tom Hughes-Croucher
 http://tomhughescroucher.com/
@@ -261,12 +267,15 @@ http://calendar.perfplanet.com/photos/vjeux.jpg
 == Mark Zeman
 http://speedcurve.com/
 http://calendar.perfplanet.com/photos/mark.jpg
-Mark Zeman (<a href="https://twitter.com/markzeman">@markzeman</a>) is a Creative Director at <a href="http://www.dan.co.nz/">Digital Arts</a> by day and Founder at <a href="http://speedcurve.com/">SpeedCurve</a> by night.<br><br><a href="http://speedcurve.com/">SpeedCurve</a> is a front-end performance monitoring and benchmarking service built on top of WebPagetest.
+Mark Zeman (<a href="https://twitter.com/markzeman">@markzeman</a>) is a Creative Director at <a href="http://www.dan.co.nz/">Digital Arts</a> by day and Founder at <a href="http://speedcurve.com/">SpeedCurve</a> by night.
+<a href="http://speedcurve.com/">SpeedCurve</a> is a front-end performance monitoring and benchmarking service built on top of WebPagetest.
 
 == Yoav Weiss
 http://blog.yoav.ws/
 http://calendar.perfplanet.com/photos/yoav.jpg
-Yoav Weiss is a Web performance and browser internals specialist, working on responsive design Web performance, image compression and more. He recently implemented the srcset attribute in Blink.<br><br>He is an <a href="http://responsiveimages.org/&quot;">RICG</a> technical lead, a Blink committer, a WebKit contributor and a bass player.<br><br>You can follow his rants on <a href="https://twitter.com/yoavweiss">Twitter</a> or have a peek at his latest prototypes on <a href="https://github.com/yoavweiss">Github</a>.
+Yoav Weiss is a Web performance and browser internals specialist, working on responsive design Web performance, image compression and more. He recently implemented the srcset attribute in Blink.
+He is an <a href="http://responsiveimages.org/&quot;">RICG</a> technical lead, a Blink committer, a WebKit contributor and a bass player.
+You can follow his rants on <a href="https://twitter.com/yoavweiss">Twitter</a> or have a peek at his latest prototypes on <a href="https://github.com/yoavweiss">Github</a>.
 
 == Andy Still
 http://internetperformanceexpert.com/
@@ -286,7 +295,8 @@ Peter Hedenskog (<a href="https://twitter.com/soulislove">@soulislove</a>) works
 == Tobias Lidskog
 https://twitter.com/tobiaslidskog
 http://calendar.perfplanet.com/photos/tobias-lidskog.jpg
-Tobias Lidskog (<a href="https://twitter.com/tobiaslidskog">@tobiaslidskog</a>) is passionate about web performance and empowering developers with great tooling. He's located in Stockholm, and is currently working on payment solutions at <a href="http://seamless.se">Seamless</a>.<br><br>Most recently he's been contributing to the development of <a href="http://browsertime.net">BrowserTime</a>
+Tobias Lidskog (<a href="https://twitter.com/tobiaslidskog">@tobiaslidskog</a>) is passionate about web performance and empowering developers with great tooling. He's located in Stockholm, and is currently working on payment solutions at <a href="http://seamless.se">Seamless</a>.
+Most recently he's been contributing to the development of <a href="http://browsertime.net">BrowserTime</a>
 
 == Tammy Everts
 http://www.webperformancetoday.com/
@@ -306,7 +316,8 @@ http://calendar.perfplanet.com/photos/paul.jpg
 == John Graham-Cumming
 http://jgc.org/
 http://calendar.perfplanet.com/photos/jgc.jpg
-<a href="http://jgc.org/">John Graham-Cumming</a>  (<a href="https://twitter.com/jgrahamc">@jgrahamc</a>) is a programmer at<br><br><a href="http://www.cloudflare.com">CloudFlare</a><br><br>(Photo: Jeremy Bechtel)
+<a href="http://jgc.org/">John Graham-Cumming</a>  (<a href="https://twitter.com/jgrahamc">@jgrahamc</a>) is a programmer at <a href="http://www.cloudflare.com">CloudFlare</a>
+(Photo: Jeremy Bechtel)
 
 == Doug Sillars
 https://twitter.com/dougsillars
@@ -336,12 +347,13 @@ Nicholas Doyle (<a href="https://twitter.com/njdoyle">@njdoyle</a>) is a Front E
 == Maciej Brencz
 https://github.com/macbre
 http://calendar.perfplanet.com/photos/maciej.jpg
-<a href="https://github.com/macbre">Maciej Brencz</a> is a Software Engineer at <a href="http://www.wikia.com/About_Us">Wikia</a>. He specializes in Web Performance and building scalable websites, struggling to send as less bytes as possible.<br><br>He spends a part of his free time on <a href="https://github.com/macbre">GitHub</a> or enjoying another juicy bit of <a href="http://en.wikipedia.org/wiki/H%C3%A1karl">kæstur hákarl</a>.
+<a href="https://github.com/macbre">Maciej Brencz</a> is a Software Engineer at <a href="http://www.wikia.com/About_Us">Wikia</a>. He specializes in Web Performance and building scalable websites, struggling to send as less bytes as possible.
+He spends a part of his free time on <a href="https://github.com/macbre">GitHub</a> or enjoying another juicy bit of <a href="http://en.wikipedia.org/wiki/H%C3%A1karl">kæstur hákarl</a>.
 
 == Andrea Giammarchi
 http://webreflection.blogspot.com/
 http://calendar.perfplanet.com/photos/andrea.jpg
-<a href="http://webreflection.blogspot.com/">Andrea Giammarchi</a> (<a href="https://twitter.com/WebReflection">@WebReflection</a>) is a mobile web engineer at Twitter, previously working at Facebook and also at Nokia where he was mainly focused on the <a href="http://m.here.com/">Mobile HTML5 Here</a> map engine.<br><br>Active contributor and <a href="http://www.youtube.com/watch?v=kMxp2vdfjAY (Preview">web-standards promoter</a> ), Andrea often <a href="http://2010.front-trends.com/speakers#andrea-giammarchi">talked about performance optimizations</a> specially for the mobile world, with a concrete experience on such field since Android 1.5 and other smartphones in the market.<br><br>These days, Andrea is probably writing some code which ideal aim is to work from latest iOS Safari Mobile, down to IE9 Mobile, passing through some Android 2.3 or greater (... and Firefox OS, and Blackberry 10, and Asha, and UCBrowser ... and ... )
+<a href="http://webreflection.blogspot.com/">Andrea Giammarchi</a> (<a href="https://twitter.com/WebReflection">@WebReflection</a>) is a mobile web engineer at Twitter, previously working at Facebook and also at Nokia where he was mainly focused on the <a href="http://m.here.com/">Mobile HTML5 Here</a> map engine. Active contributor and <a href="http://www.youtube.com/watch?v=kMxp2vdfjAY (Preview">web-standards promoter</a> ), Andrea often <a href="http://2010.front-trends.com/speakers#andrea-giammarchi">talked about performance optimizations</a> specially for the mobile world, with a concrete experience on such field since Android 1.5 and other smartphones in the market. These days, Andrea is probably writing some code which ideal aim is to work from latest iOS Safari Mobile, down to IE9 Mobile, passing through some Android 2.3 or greater (... and Firefox OS, and Blackberry 10, and Asha, and UCBrowser ... and ... )
 
 == Barbara Bermes
 http://bbinto.wordpress.com/
